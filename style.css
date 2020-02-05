@@ -1,7 +1,7 @@
-h1{
+/* h1{
     color: brown;
     background-color: cyan;
-} */
+}
 .judul{
     color: darkblue;
     background-color: darksalmon;
@@ -9,4 +9,10 @@ h1{
 #subjudul{
     color: darkseagreen;
     background-color: darkviolet;
+} 
+*/
+.container{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
 }
